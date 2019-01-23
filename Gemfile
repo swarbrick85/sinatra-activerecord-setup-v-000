@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'activerecord', '4.2.5'
-gem 'inatra-activerecord'
+gem 'sinatra-activerecord'
 gem 'rake'
 gem 'thin'
 gem 'require_all'
